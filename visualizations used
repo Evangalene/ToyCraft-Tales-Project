@@ -1,0 +1,9 @@
+## 📊 Number of Visualizations Used
+
+The dashboard includes **5 key visualizations**:
+
+1. **Top 10 States by Toy Manufacturers** – Highlights states leading in toy manufacturing.
+2. **Year-wise Manufacturer Count** – Shows how the industry evolved from 2005 to 2016.
+3. **Manufacturer Index Analysis** – Compares count and index of manufacturers.
+4. **Manufacturer Count vs Index** – Overall comparison across the dataset.
+5. **Pie Chart by State** – Displays proportion of toy manufacturing across states.
