@@ -1,0 +1,10 @@
+## 🌐 Web Integration
+
+This project includes a responsive website with the following pages:
+
+- `index.html` → Landing Page
+- `about.html` → About the project
+- `dashboard.html` → Embedded Tableau Dashboard
+- `story.html` → Embedded Tableau Story
+
+You can preview the site locally or host it via GitHub Pages or Netlify.
