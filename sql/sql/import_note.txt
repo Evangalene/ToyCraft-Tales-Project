@@ -1,0 +1,6 @@
+The dataset was downloaded from Kaggle:
+https://www.kaggle.com/datasets/thedevastator/toy-manufacturers-in-us-states
+
+The data was imported into MySQL using the Import Data Wizard in MySQL Workbench.
+
+It was loaded under the schema: ToyCraft_Tales. The table was automatically created by MySQL based on the CSV column structure. No manual CREATE TABLE or INSERT statements were written.
