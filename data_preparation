@@ -1,0 +1,11 @@
+## 🔗 Connecting MySQL to Tableau
+
+- After creating the schema `ToyCraft_Tales` and importing the dataset into the `toy_manufacturers` table, we connected Tableau directly to MySQL.
+- Tableau’s **MySQL connector** was used with the following configuration:
+  - Server: `localhost`
+  - Port: `3306`
+  - Username: `root` (or your MySQL user)
+  - Password: [your password]
+- The table was loaded and used directly for visualizations.
+
+![MySQL Connection](screenshots/mysql_connection_tableau.png)
