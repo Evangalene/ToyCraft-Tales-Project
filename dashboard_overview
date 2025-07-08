@@ -1,0 +1,23 @@
+# 📊 Dashboard Overview
+
+## 📘 Title
+**ToyCraft Tales: Tableau’s Vision into Toy Manufacturer Data**
+
+## 🎯 Purpose
+The dashboard visually explores the distribution and trends in toy manufacturing across the U.S., with a focus on:
+- State-wise dominance in toy production
+- Yearly manufacturer counts
+- Wages and employment patterns
+- Index-based performance comparisons
+
+## 📈 Visualizations Included
+
+1. **Top 10 States by Manufacturers** (Bar chart)
+2. **Manufacturers by Year** (Line chart)
+3. **Index-Based Manufacturer Analysis** (Bar + Line combo)
+4. **Overall Manufacturer Count vs Index** (Bar chart)
+5. **Pie Chart of Manufacturers by State with Index Labels**
+
+## 📸 Final Dashboard Screenshot
+
+![Final Dashboard](screenshots/final_dashboard.png)
