@@ -1,0 +1,23 @@
+# 📊 Database Summary: Data Rendered to MySQL
+
+## ✅ Table Imported
+- **Schema**: `ToyCraft_Tales`
+- **Table**: `toy_manufacturers`
+- **Source File**: Kaggle `.hyper` dataset
+
+## 📈 Data Statistics (from MySQL)
+
+| Metric                  | Value         |
+|-------------------------|---------------|
+| Total Rows              | 1,944         |
+| Unique States           | 51            |
+| Years Covered           | 2005–2016     |
+| Columns                 | 5             |
+| Column Names            | `year`, `state`, `manufacturers`, `employment`, `total_wages` |
+
+## 📥 Import Method
+- Used **MySQL Import Wizard**
+- No data loss or truncation
+- Verified row count post-import
+
+> This table was directly used in Tableau for all visualizations and story creation.
